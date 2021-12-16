@@ -1,0 +1,96 @@
+<linker>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceGameObject" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Industrial.Forma.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Unity.Industrial.Forma.Core.Configuring.Configuration" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Context" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.ContextCollection" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Info.InfoEngineData" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Pricing.ProductLocalPrice" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Products.ModelSet" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Products.Product" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Products.ProductDefinition" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Products.ProductSettings" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Profiles.ProfileDefinition" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Ruling.Rules" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.GameObjectVisibilityAssignment" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.MaterialAssignment" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.QueryResults" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.StaticBoolQueryNode" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.StaticListGameObjectQueryNode" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.StaticListMaterialSlotQueryNode" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.StaticMaterialQueryNode" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.Variant" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.VariantSet" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.VariantTable" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Staging.Camera.CameraItemCommandSettings" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Staging.Commands.FadeScreenshotCommand" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Staging.Commands.LoadScenesCommandAsync" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Staging.Commands.ScreenshotCommand" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Staging.Environment.EnvironmentDefinition" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Staging.Environment.EnvironmentItem" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Staging.Environment.EnvironmentItemCommandSettings" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Staging.StagingSettingsContainer" preserve="all" />
+    <type fullname="UnityEngine.Industrial.Configuring.Providers.ProductRuntimeUIData" preserve="all" />
+    <type fullname="Unity.Industrial.Forma.Core.AddressableSources.AssetProductReference" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Info.ContextCollectionDisplayInfo" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Info.DisplayInfoContent" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Info.FeatureDisplayInfo" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Info.FeatureSetDisplayInfo" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Info.ProductDisplayInfo" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Profiles.ProductVariantProfile" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Ruling.CombinedAction" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Ruling.CombinedCondition" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Ruling.CommonRule" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Ruling.SelectFeatureAction" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Ruling.SelectedFeatureCondition" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Ruling.SetFeatureAvailabilitiesAction" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.DeferredQuery`1[System.Boolean]" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.DeferredQuery`1[System.Collections.Generic.List`1[Unity.Industrial.Forma.Core.Variants.MaterialSlot]]" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.DeferredQuery`1[System.Collections.Generic.List`1[UnityEngine.GameObject]]" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.DeferredQuery`1[UnityEngine.Material]" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.FeatureSetDictionary" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.MaterialSlot" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.MaterialSlotMatch" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Variants.ObjectMatch" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Staging.StagingSettings" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Profiles.ConfiguratorProfile" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Profiles.ProductProfileReference" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Profiles.ProfileEnvironmentSettings" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Profiles.ProfileMaterialSettings" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Profiles.ProfileProductSettings" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Core.Profiles.ProfileSettings" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Staging.Environment.EnvironmentReference" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Staging.SceneReference" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Staging.StagingElement" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Industrial.Forma.Staging.StagingItemRow" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ProBuilder.ProBuilderMesh" preserve="all" />
+    <type fullname="UnityEngine.ProBuilder.AutoUnwrapSettings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.ProBuilder.Face" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.ProBuilder.SharedVertex" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.ProBuilder.UnwrapParameters" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+  </assembly>
+</linker>
